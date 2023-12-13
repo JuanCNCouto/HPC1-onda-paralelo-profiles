@@ -1,0 +1,5 @@
+./Script.x: line 6:  3433 Terminated              ./Onda
+
+real	0m18.879s
+user	1m16.846s
+sys	0m0.476s

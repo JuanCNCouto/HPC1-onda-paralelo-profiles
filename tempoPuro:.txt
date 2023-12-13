@@ -1,0 +1,7 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+./Script.x: line 1: 22855 Terminated              ./Onda
+
+real	0m25.298s
+user	1m36.390s
+sys	0m0.545s
